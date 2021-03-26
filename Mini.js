@@ -51,7 +51,7 @@ myYellow.addEventListener("click", function(){
     let newImage = document.createElement("img");
      
     newImage.classList.add("new-image");
-    newImage.src="./art collection/yellow2.jpeg";
+    newImage.src="./art collection/yellow.jpeg";
     newImage.style.width="300px";
     newImage.style.height="300px";
      
